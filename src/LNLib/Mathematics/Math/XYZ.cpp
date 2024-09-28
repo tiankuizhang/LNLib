@@ -16,8 +16,6 @@
 
 using namespace LNLib;
 
-
-
 XYZ::XYZ()
 {
 	m_xyz[0] = 0;
